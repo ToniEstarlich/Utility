@@ -4,7 +4,7 @@ export function SiteFooter() {
   return (
     <footer className="site-footer">
       <div className="footer-inner">
-        <span>© 2026 Utility</span>
+        <span>&copy; 2026 Utility</span>
         <nav className="footer-links" aria-label="Footer navigation">
           <Link href="/tools">Tools</Link>
           <Link href="/lingua">Lingua</Link>
